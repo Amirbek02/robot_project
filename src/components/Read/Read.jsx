@@ -332,8 +332,8 @@ function Read() {
                 </ul>
               )}
             </li>
-            <li className="read__item" onClick={() => onShow11()}>
-              <h3 className="read__menu-title">Негізгі Arduino қолданбалары</h3>
+            <li className="read__item read__item2" onClick={() => onShow11()}>
+              <h3 className="read__menu-title read__menu-title2">Негізгі Arduino қолданбалары</h3>
               {show11 && (
                 <ul>
                   <li onClick={() => setAdd(34)}>15.1 Бағдаршам программасы</li>

@@ -58,7 +58,7 @@ export const Work = () => {
               <h3 className="read__menu-title1">№14 зертханалық жұмыс. Роботтың алгоритмін құру</h3>
             </li>
             <li className="read__item" onClick={() => setAdd(15)}>
-              <h3 className="read__menu-title1">
+              <h3 className="read__menu-title1 read__menu-title2">
                 №15 зертханалық жұмыс. Робо-сумо программасын құру
               </h3>
             </li>
