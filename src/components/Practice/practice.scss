@@ -1,0 +1,36 @@
+.practice {
+  width: 1200px;
+  margin: 50px auto;
+  border-radius: 30px;
+  padding: 40px;
+  background-color: #fff;
+  position: relative;
+  height: 600px;
+  &__menu {
+    display: flex;
+  }
+  &__item {
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 10px;
+  }
+  &__item:not(:last-child) {
+    margin-right: 20px;
+  }
+  &__link {
+    display: block;
+    text-align: center;
+    background-color: #485a75;
+    padding: 11px 25px;
+    border-radius: 13px;
+    color: #fff;
+  }
+
+  &__link2 {
+    margin-bottom: 10px;
+  }
+}
+
+.img__container {
+  height: 250px;
+}

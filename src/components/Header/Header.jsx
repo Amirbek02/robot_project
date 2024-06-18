@@ -38,6 +38,11 @@ function Header() {
               </Link>
             </li>
             <li className="menu__item">
+              <Link to="/practice" className="menu__link">
+                Практикалық тапсырма
+              </Link>
+            </li>
+            <li className="menu__item">
               <Link to="/about" className="menu__link">
                 Автор туралы
               </Link>

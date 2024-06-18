@@ -10,6 +10,7 @@ import Avtor from './components/Avtor/Avtor';
 
 import './App.scss';
 import { Work } from './components/Work/Work';
+import { Practice } from './components/Practice/Practice';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="/read" element={<Read />} />
         <Route path="/about" element={<Avtor />} />
         <Route path="/work" element={<Work />} />
+        <Route path="/practice" element={<Practice />} />
         <Route path="/test" element={<Test />} />
         <Route path="/test1" element={<Test1 />} />
       </Routes>
