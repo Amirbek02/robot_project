@@ -10,8 +10,8 @@ function Header() {
           <div className="headerRight">
             <img src="img/images.png" alt="" className="header__logo" />
             <div className="header__logo-texts">
-              <h2 className="header__title">Роботтық</h2>
-              <p className="header__descr">ЖҮЙЕЛЕР ОҚУ ҚҰРАЛЫ</p>
+              <h2 className="header__title">Жасанды</h2>
+              <p className="header__descr">интеллект және робототехника</p>
             </div>
           </div>
         </Link>

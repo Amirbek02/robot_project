@@ -9,7 +9,7 @@ function Content() {
       <div className="container">
         <div className="content__container">
           <div className="content__texts">
-            <h1 className="content__title">РОБОТТЫҚ ЖҮЙЕЛЕР ОҚУ ҚҰРАЛЫ</h1>
+            <h1 className="content__title">Жасанды интеллект және робототехника</h1>
             <p className="content__descr">
               Роботтар мен робототехникалық жүйелерді моделдеудің әдістері мен құралдарын
               түсіндірмелермен робототехникалық жүйелерді және олардың жеке модульдерін жобалау және
