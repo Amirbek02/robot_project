@@ -9,7 +9,7 @@ function Content() {
       <div className="container">
         <div className="content__container">
           <div className="content__texts">
-            <h1 className="content__title">Жасанды интеллект және робототехника</h1>
+            <h1 className="content__title">Робототехника</h1>
             <p className="content__descr">
               Роботтар мен робототехникалық жүйелерді моделдеудің әдістері мен құралдарын
               түсіндірмелермен робототехникалық жүйелерді және олардың жеке модульдерін жобалау және
@@ -20,7 +20,7 @@ function Content() {
               Электронды оқулық
             </Link>
           </div>
-          <img src="robotImg.jpg" alt="" className="content__img" />
+          {/* <img src="robotImg.jpg" alt="" className="content__img" /> */}
         </div>
         <div className="annotation">
           <h2 className="annotation__title">Электронды оқулықтың аннотациясы</h2>
@@ -49,7 +49,7 @@ function Content() {
               </li>
               <li className="texts__item">
                 <p className="texts__descr">
-                  <b>Қызметі</b> (ғылыми дәрежесі, атағы): Ғылыми дәрежесі, атағы: PhD, аға оқытушы
+                  <b>Қызметі</b> (ғылыми дәрежесі, атағы): Ғылыми дәрежесі, атағы: Phd, доцент м.а.
                 </p>
               </li>
               <li className="texts__item">
