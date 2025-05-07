@@ -17,7 +17,7 @@ function Content() {
               мысалдарымен көрсетілген.
             </p>
             <Link to="/read" className="content__link">
-              Электронды оқулық
+              Дәрістер
             </Link>
           </div>
           {/* <img src="robotImg.jpg" alt="" className="content__img" /> */}

@@ -23,7 +23,7 @@ function Header() {
             </li>
             <li className="menu__item">
               <Link to="/read" className="menu__link">
-                Электронды оқулық
+                Дәрістер
               </Link>
             </li>
             <li className="menu__item">
